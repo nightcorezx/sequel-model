@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
