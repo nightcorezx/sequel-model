@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
