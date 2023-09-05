@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
