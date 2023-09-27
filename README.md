@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
