@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
