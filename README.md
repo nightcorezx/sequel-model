@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
