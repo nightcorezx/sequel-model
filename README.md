@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
