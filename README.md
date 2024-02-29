@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Rename model_id to model.id (#8447)
