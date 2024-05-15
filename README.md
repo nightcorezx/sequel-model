@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
