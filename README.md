@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
