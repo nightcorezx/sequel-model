@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
