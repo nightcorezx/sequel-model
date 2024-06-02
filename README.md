@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add bgr hyperparameter (#9139)
