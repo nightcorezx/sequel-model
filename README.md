@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Improve Docs Modes tables (#8266)
