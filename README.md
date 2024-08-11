@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
