@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Fix Yolo 8.0.206 scale bug (#7821)
