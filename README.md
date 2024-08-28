@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add dota8.yaml and O tests (#7394)
