@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
