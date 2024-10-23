@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Resize angle, count, and stage on keypoint number change (#7598)
