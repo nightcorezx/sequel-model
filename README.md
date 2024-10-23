@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Cleanup Docs languages (#7865)
