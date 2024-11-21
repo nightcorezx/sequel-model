@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
