@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Move Explorer tests to scheduled CI (#8305)
